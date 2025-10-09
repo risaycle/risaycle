@@ -1,11 +1,15 @@
-- 👋 Hi, I’m @risaycle
-- 👀 I’m interested in information security and hacking
-- 🌱 I’m currently learning cybersecurity analyst (CySA+)
-- 💞️ I’m open for roles like Penetration tester, SOC Analyst, and Cybersecurity engineer.
-- 📫 How to reach me ... Bluesky(@risaycle.bsky.social)
+# 👋 Hi, I’m Lisa
+## About Me:
+- 🏫 Western Governors University, B.S. Cybersecurity and Information Assurance
+- 🎓 University of California, Irvine, B.S. Biological Science
+- 🔬 Research Lab Assistant and Undergrad Management, Beier's Lab at UCI School of Medicine
+- 🕵️‍♀️ Member of Women in Cybersecurity (WiCys)
+- 💙 Passionate about ethical hacking
 
+## Skills:
+- 📃 Certifications: CompTIA A+, Security+, Network+, Project+, CySA+
+- 🧑‍💻 Languages: Python, SQL
 
-<!---
-risaycle/risaycle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Key Projects:
+- SOC Level 1 (TryHackMe)
+  
