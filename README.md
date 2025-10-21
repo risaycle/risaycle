@@ -13,5 +13,5 @@
 - 🧑‍💻 Languages: Python, SQL
 
 ## Key Projects:
-- SOC Level 1 (TryHackMe)
+- Metasploit for Beginners: Ethical Penetration Testing (In Progress)
   
